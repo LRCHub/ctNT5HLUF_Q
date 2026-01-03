@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "致死毒を綴る",
+  "base_artist": "SEVENTHLINKS",
+  "createdAt": "2026-01-03T17:37:47.300796Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "致死毒を綴る",
+      "artist": "SEVENTHLINKS",
+      "has_synced": false,
+      "path": "select/pl_01_致死毒を綴る_SEVENTHLINKS.txt"
+    }
+  ]
+}
